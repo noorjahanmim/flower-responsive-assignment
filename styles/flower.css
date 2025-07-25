@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif+Caption:ital@0;1&display=swap');
+
+.pt-serif-caption-regular {
+  font-family: "PT Serif Caption", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* .pt-serif-caption-regular-italic {
+  font-family: "PT Serif Caption", serif;
+  font-weight: 400;
+  font-style: italic;
+} */
+ 
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.work-sans-font {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
